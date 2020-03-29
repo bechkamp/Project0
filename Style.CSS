@@ -5,5 +5,6 @@ div#Page-HeadLine
         font-weight: bold;
         color: Navy;
         text-align: center;
-        padding: 20px
+        padding: 20px;
+        border: 3px solid Green;
     }

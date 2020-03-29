@@ -1,11 +1,12 @@
 div#Page-HeadLine
     {
         font-family: Arial, sans-serif;
+        background-color: grey;
         font-size: 20px;
         font-weight: bold;
         color: Navy;
         text-align: center;
-        border: 3px solid Red;
+        border: 2px solid Black;
         padding: 20px;
     }
 
@@ -20,23 +21,22 @@ th    {
         padding: 5px;
       }
 
-td    {
+td  {
         border: 1px solid black;
         text-align: center;
       }
 div#Left-Nav
     {
-        margin-top: 10;
-        margin-left: 5;
-        background-color: grey;
-        height: 850px;
-        width: 251px;
-        font-family: Arial, sans-serif;
-        font-size: 15px;
-        font-weight: bold;
-        color: Black;
-        text-align: left;
-        border: 3px solid Black;
+      margin-top: 2px;
+      background-color: grey;
+      height: 850px;
+      width: 254px;
+      font-family: Arial, sans-serif;
+      font-size: 15px;
+      font-weight: bold;
+      color: Black;
+      text-align: left;
+      border: 0.5px solid Black;
     }
 
 button  {

@@ -29,13 +29,23 @@ div#Left-Nav
         margin-top: 10;
         margin-left: 5;
         background-color: grey;
-        height: 700px;
-        width: 200px;
+        height: 850px;
+        width: 251px;
         font-family: Arial, sans-serif;
         font-size: 15px;
         font-weight: bold;
         color: Black;
         text-align: left;
         border: 3px solid Black;
-        padding: 20px;
     }
+
+button  {
+          height: 50px;
+          width: 246px;
+          border: 2px solid Black;
+          font-family: Arial, sans-serif;
+          font-size: 18px;
+          font-weight: bold;
+          color: Black;
+          text-align: left;
+        }

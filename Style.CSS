@@ -6,17 +6,29 @@ div#Page-HeadLine
         font-weight: bold;
         color: Navy;
         text-align: center;
-        border: 2px solid Black;
+        border: 3px solid Black;
         padding: 20px;
     }
-
+div#Page-Footer
+    {
+        margin-top: -2px;
+        font-family: Arial, sans-serif;
+        background-color: grey;
+        font-size: 8px;
+        font-weight: normal;
+        color: Black;
+        text-align: center;
+        border: 3px solid Black;
+        padding: 5px;
+    }
 table {
-        border: 3px solid black;
+        margin-top: -2px;
+        border: 2px solid black;
         border-collapse: collapse;
       }
 
 th    {
-        border: 3px solid black;
+        border: 2px solid black;
         text-align: center;
         padding: 5px;
       }
@@ -27,16 +39,16 @@ td  {
       }
 div#Left-Nav
     {
-      margin-top: 2px;
+      margin-top: -2px;
       background-color: grey;
-      height: 850px;
-      width: 254px;
+      height: 857.5px;
+      width: 252px;
       font-family: Arial, sans-serif;
       font-size: 15px;
       font-weight: bold;
       color: Black;
       text-align: left;
-      border: 0.5px solid Black;
+      border: 2px solid Black;
     }
 
 button  {

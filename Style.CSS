@@ -1,14 +1,8 @@
-h1  {
-      color: Navy;
-      text-align: center;
-    }
-
-p   {
-      color: Orange;
-    }
-div 1
+div#Page-HeadLine
     {
         font-family: Arial, sans-serif;
         font-size: 28px;
         font-weight: bold;
+        color: Navy;
+        text-align: center;
     }

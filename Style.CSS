@@ -6,3 +6,9 @@ h1  {
 p   {
       color: Orange;
     }
+div
+    {
+        font-family: Arial, sans-serif;
+        font-size: 28px;
+        font-weight: bold;
+    }

@@ -26,6 +26,8 @@ td    {
       }
 div#Left-Nav
     {
+        margin-top: 10;
+        margin-left: 5;
         background-color: grey;
         height: 700px;
         width: 200px;
